@@ -1,7 +1,5 @@
 # Cadastrin 
 
---- 
-
 Python GUI project based on a MVC architeture with data
 persistence. <br> 
 

@@ -10,7 +10,7 @@ UFSC (Federal University of Santa Catarina). <br>
 The main objective of the program it is to control events in
 a pandemic scenario, doing that by assigning specific events
 to specific party producers, and, connecting a list of
-participants (that may have be registered on the system and ensure some pandemic precautions) to those specific events 
+participants (that may have be registered on the system and ensure some pandemic precautions) to those specific events. 
 
 ### :warning: Warning
 
